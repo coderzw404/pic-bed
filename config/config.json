@@ -1,0 +1,13 @@
+{
+  "picBed": {
+    "uploader": "github",
+    "github": {
+      "repo": "coderzw404/pic-bed",
+      "branch": "main",
+      "token": "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",
+      "path": "img/",
+      "customUrl": ""
+    }
+  },
+  "picgoPlugins": {}
+}
